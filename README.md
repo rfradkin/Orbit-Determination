@@ -7,7 +7,7 @@ This code was developed as a part of the Summer Science Program in Astrophysics 
 
 <img src="/Images/JPL_Orbit.jpg" alt="Default Login Screen" width="450"/>  
 <img src="/Images/Observational_Orbit.jpg" alt="Default Login Screen" width="450"/> 
-<img src="/Images/2003_HA22_SLM.jpg" alt="Default Login Screen" width="200"/> 
+<img src="/Images/2003_HA22_SLM.jpg" alt="Default Login Screen" width="400"/> 
 
 | Orbital Element        |   Output           |  JPL    |
 |:-------------:|:-------------:|:--------:|
