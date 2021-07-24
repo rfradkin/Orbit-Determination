@@ -7,8 +7,8 @@ This code was developed as a part of the Summer Science Program in Astrophysics 
 
 <img src="/Images/JPL_Orbit.jpg" alt="Default Login Screen" width="450"/>  
 <img src="/Images/Observational_Orbit.jpg" alt="Default Login Screen" width="450"/> 
-<img src="/Images/2003_HA22_SLM.jpg" alt="Default Login Screen" width="400"/> 
-
+<img src="/Images/2003_HA22_SLM.jpg" alt="Default Login Screen" width="450"/> 
+<Title> 2003 HA22 on June 29, 2021 </Title>
 | Orbital Element        |   Output           |  JPL    |
 |:-------------:|:-------------:|:--------:|
 | *a*  | 11.6 au | 1.876 au|
