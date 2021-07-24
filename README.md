@@ -5,8 +5,8 @@ This code was developed as a part of the Summer Science Program in Astrophysics 
 
 ## Output
 
-<img src="Images/JPL_Orbit" alt="Default Login Screen" width="250"/>  <img src="/Images/oObservational_Orbit" alt="Default Login Screen" width="250"/> 
-<img src="/Images/2003_HA22_SLM" alt="Default Login Screen" width="200"/> 
+<img src="/Images/JPL_Orbit.png" alt="Default Login Screen" width="250"/>  <img src="/Images/Observational_Orbit.png" alt="Default Login Screen" width="250"/> 
+<img src="/Images/2003_HA22_SLM.jpg" alt="Default Login Screen" width="200"/> 
 
 | Orbital Element        |   Output           |  JPL    |
 |:-------------:|:-------------:|:--------:|
