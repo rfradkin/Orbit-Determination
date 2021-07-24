@@ -41,6 +41,6 @@ How to run:
 This is a modified Method of Gauss code that works with Monte Carlo and uses basic functions from f.py.
 Replace the "input file here.txt" with the input file in R.Fradkin_Monte_Carlo.py/2003HA22_Monte_Carlo.txt to run. The input file can only have 3 observations. Uncertainties should be in the final two columns. 
 
-### R.Fradkin_Orbit_Visualization.py
+### R.Fradkin_Orbit_Visualization.py  &  f.py
 
 2003 HA22's orbit visualized with the Solar System.
