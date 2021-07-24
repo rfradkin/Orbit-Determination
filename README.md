@@ -5,10 +5,10 @@ This code was developed as a part of the Summer Science Program in Astrophysics 
 
 ## Output
 
-### JPL HORIZONS 2003 HA22 Visual Orbit
+### JPL HORIZONS Based Orbit of 2003 HA22 Visual Orbit
 <img src="/Images/JPL_Orbit.jpg" alt="Default Login Screen" width="450"/>  
 
-### Observational Orbit of 2003 HA22 Visual Orbit
+### Observation Based Orbit of 2003 HA22 Visual Orbit
 <img src="/Images/Observational_Orbit.jpg" alt="Default Login Screen" width="450"/> 
 
 ### 2003 HA22 on June 29, 2021
