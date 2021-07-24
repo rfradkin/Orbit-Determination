@@ -31,10 +31,10 @@ This code was developed as a part of the Summer Science Program in Astrophysics 
 This is the main function. It imports functions from f.py. 
 
 How to run:
-	1) Open R.Fradkin_OD.py and f.py
-	2) replace "input file here.txt" with the input file in R.Fradkin_OD.py/2003HA22.txt
-	3) Save and run R.Fradkin_OD.py
-	4) Debug :)
+1) Open R.Fradkin_OD.py and f.py
+2) replace "input file here.txt" with the input file in R.Fradkin_OD.py/2003HA22.txt
+3) Save and run R.Fradkin_OD.py
+4) Debug :)
 
 ### R.Fradkin_Monte_Carlo.py  &  f.py
 
